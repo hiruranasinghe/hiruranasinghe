@@ -8,7 +8,7 @@
 💡 Currently exploring full-stack web development and API integration projects.  
 
 🧠 I enjoy learning new technologies and transforming ideas into functional, creative solutions.  
-🚀 Contributor to WatchMart web project | Completed Postman API Testing Course.  
+🚀 Contributor to the WatchMart web project | Completed Postman API Testing Course.  
 🌱 Actively building projects that combine networking and software innovation.  
 
 📫 Reach me via: [LinkedIn](https://www.linkedin.com/in/hiruni-ranasinghe-6b411a377/) | [Email](hiruranasinghe67@gmail.com)  
