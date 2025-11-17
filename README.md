@@ -32,15 +32,6 @@
 
 ## 🛠️ Languages and Tools
 
-### ⚙️ Core Skill Highlights (Custom Badges)
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
-  <img src="https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking Badge">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge">
-</p>
-
 | Category | Technologies |
 | :--- | :--- |
 | **Frontend/Web** | <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="30" height="30"/></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="30" height="30"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="30" height="30"/></a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="30" height="30"/></a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="30" height="30"/></a> |
@@ -57,8 +48,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hiruranasinghe&show_icons=true&locale=en&layout=compact&theme=dark" alt="hiruranasinghe Top Languages" />
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiruranasinghe&theme=dark" alt="hiruranasinghe GitHub Streak" />
-    
-  <img src="https://activity-graph.herokuapp.com/graph?username=hiruranasinghe&theme=github-compact" alt="Hiru Ranasinghe GitHub Activity Graph" />
 </div>
 
 ---
@@ -74,9 +63,3 @@
 <br/>
 <br/>
 <p align="right"><a href="https://github.com/hiruranasinghe">**My GitHub Profile: @hiruranasinghe**</a></p>
-
----
-
-This is now a highly professional and advanced GitHub README!
-
-Would you like to explore adding any project highlights or repository links to this file?
