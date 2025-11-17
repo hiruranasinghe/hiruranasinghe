@@ -55,8 +55,11 @@
 ## 🤝 Connect with me
 
 - 📧 **Email:** **hiruranasinghe67@gmail.com**
-- <a href="https://linkedin.com/in/hiruni ranasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hiruni ranasinghe LinkedIn" height="30" width="40" /></a>
-- <a href="https://fb.com/hiru ranasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hiru ranasinghe Facebook" height="30" width="40" /></a>
+
+<p align="left">
+<a href="https://www.linkedin.com/in/hiruni-ranasinghe-28/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hiruni Ranasinghe LinkedIn" height="30" width="40" /></a>
+<a href="https://www.facebook.com/HiruRanasinghe" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Hiru Ranasinghe Facebook" height="30" width="40" /></a>
+</p>
 
 <br/>
 <br/>
