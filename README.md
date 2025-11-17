@@ -46,8 +46,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hiruranasinghe&show_icons=true&locale=en&theme=dark&rank_icon=github" alt="hiruranasinghe GitHub stats" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hiruranasinghe&show_icons=true&locale=en&layout=compact&theme=dark" alt="hiruranasinghe Top Languages" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiruranasinghe&theme=dark" alt="hiruranasinghe GitHub Streak" />
 </div>
 
 ---
@@ -57,9 +55,8 @@
 - 📧 **Email:** **hiruranasinghe67@gmail.com**
 
 <p align="left">
-<a href="https://www.linkedin.com/in/hiruni-ranasinghe/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hiruni Ranasinghe LinkedIn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hiruni-ranasinghe-6b411a377" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hiruni Ranasinghe LinkedIn" height="30" width="40" /></a>
 </p>
 
 <br/>
 <br/>
-<p align="right"><a href="https://github.com/hiruranasinghe">**My GitHub Profile: @hiruranasinghe**</a></p>
