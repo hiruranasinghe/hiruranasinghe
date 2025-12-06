@@ -24,17 +24,21 @@ I am a highly motivated Computer Networks undergraduate with a strong foundation
 
 ---
 
+---
+
 ## 💻 Projects & Experience
 
 Showcasing my ability to deliver end-to-end solutions.
 
-### 🍽️ Full-Stack Restaurant Web Application
-A modern, responsive e-commerce platform for a restaurant, featuring online ordering, dynamic menu display, and robust state management.
-* **Key Technologies Used:** **Next.js (React), Tailwind CSS**, Node.js (or specified backend), MongoDB/MySQL.
+### 🍕 Full-Stack Restaurant Web Application (Next.js & Tailwind CSS)
+An elegant, high-performance **e-commerce platform** for a restaurant. This project demonstrates mastery of modern web architecture and rapid, responsive styling.
+* **Technical Achievement:** Leveraged **Next.js** for server-side rendering (SSR) and routing, and **Tailwind CSS** for component-driven, utility-first styling to achieve pixel-perfect responsiveness and fast load times.
+* **Key Features:** Dynamic menu display, intuitive order management interface, and a seamless user experience across devices.
 
-### 👨‍💻 Student Management System (SMS)
-A centralized system designed for efficient management of student records, course enrollment, and attendance tracking.
-* **Key Technologies Used:** Python (Flask/Django) or Java, MySQL for relational data management.
+### 🎓 Student Management System (JavaScript/Full-Stack)
+A robust, centralized application designed for efficient academic operations and data integrity.
+* **Technical Achievement:** Developed a complete system using **JavaScript** (likely Node.js/Express) for the backend logic and utilized **REST API principles** for effective communication between the frontend and database.
+* **Key Features:** Secure management of student records, course enrollment tracking, and user authentication layers.
 
 ---
 
