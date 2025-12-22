@@ -11,7 +11,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=hiruranasinghe&label=Profile%20views&color=blue&style=flat" alt="hiruranasinghe profile views" />
   <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=hiruranasinghe&theme=dracula&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiruranasinghe&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 🚀 About Me
@@ -30,12 +30,12 @@ Showcasing my ability to deliver end-to-end solutions.
 
 ### 🍕 Full-Stack Restaurant Web Application (Next.js & Tailwind CSS)
 An elegant, high-performance **e-commerce platform** for a restaurant. 
-* **Technical Achievement:** Leveraged **Next.js** for server-side rendering (SSR) and **Tailwind CSS** for responsive, utility-first styling.
+* **Technical Achievement:** Leveraged **Next.js** for server-side rendering (SSR) and **Tailwind CSS** for responsive styling.
 * **Key Features:** Dynamic menu display and intuitive order management.
 
 ### 🎓 Student Management System (JavaScript/Full-Stack)
 A robust application designed for efficient academic operations and data integrity.
-* **Technical Achievement:** Developed using **JavaScript** and **REST API principles** for effective frontend-to-database communication.
+* **Technical Achievement:** Developed using **JavaScript** and **REST API principles** for effective communication.
 * **Key Features:** Secure record management and user authentication layers.
 
 ---
