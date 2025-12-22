@@ -10,8 +10,8 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=hiruranasinghe&label=Profile%20views&color=blue&style=flat" alt="hiruranasinghe profile views" />
-  &nbsp;
-  <img src="https://github-profile-trophy.vercel.app/?username=hiruranasinghe&theme=darkhub&no-background=true&no-frame=true&row=1" alt="GitHub Trophies" />
+  <br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=hiruranasinghe&theme=dracula&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ## 🚀 About Me
