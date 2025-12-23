@@ -58,7 +58,7 @@ A robust application designed for efficient academic operations and data integri
 * **Introduction to Packet Tracer** – Cisco Networking Academy
 * **Introduction to Git** – [Microsoft Learn Certificate](https://www.linkedin.com/learning/introduction-to-git)  
 
-*(Optional: Add badge image if you have one: `![Git Certificate](URL_TO_IMAGE)`)*
+
 
 ---
 
