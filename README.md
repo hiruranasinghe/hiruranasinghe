@@ -51,7 +51,7 @@ A robust application designed for efficient academic operations and data integri
 ---
 
 ## 🏆 Certifications
-
+* **Git & GitHub Certification** – ScholarHat
 * **Operating System Basics** – Cisco Networking Academy
 * **API Testing Postman API Fundamentals Student Expert** – Postman
 * **Exploring Networking with Cisco Packet Tracer** – Cisco Networking Academy
