@@ -1,81 +1,113 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/half-blood/half-blood/main/github_hi.gif" width="300" alt="Hello">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hiru%20Ranasinghe&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" alt="Header" />
 
-  # Hiru Ranasinghe
-  ### Undergraduate | Aspiring Full-Stack & Network Engineer
+  ### 🚀 Undergraduate | Aspiring Full-Stack & Network Engineer
   **NSBM Green University**
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/hiruni-ranasinghe-6b411a377"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <img src="https://komarev.com/ghpvc/?username=hiruranasinghe&label=Profile%20views&color=blue&style=flat-square" alt="Profile views" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiruranasinghe&theme=dark&hide_border=true" alt="GitHub Streak" />
+    <a href="https://www.linkedin.com/in/hiruni-ranasinghe-6b411a377"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <img src="https://img.shields.io/badge/Location-Sri_Lanka-blue?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   </p>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=hiruranasinghe&theme=tokyonight&no-bg=true&no-frame=true&column=7" alt="Trophies" />
 </div>
 
 ---
 
-### 🚀 About Me
+### 💫 About Me
 
-I am a highly motivated Computer Networks undergraduate with a focus on bridging the gap between **Network Engineering** and **Modern Web Development**. I specialize in building scalable solutions using the **Next.js ecosystem** while maintaining a deep technical interest in **Operating Systems** and **Cybersecurity**.
+I am a results-oriented Computer Networks undergraduate focused on the intersection of **Network Infrastructure** and **Modern Web Development**. I specialize in building high-performance applications while mastering the complexities of **Cybersecurity** and **System Administration**.
 
-- 💡 **Current Focus:** Network Security, Linux System Administration, and Cloud Infrastructure.
-- 🛠️ **Environment:** Linux (Ubuntu / WSL), Cisco Packet Tracer, Wireshark.
-- 🎯 **Goal:** Combining backend stability with performance-driven frontend architecture.
-
----
-
-### 💻 Featured Projects
-
-**🍕 Full-Stack Restaurant Application**
-> An e-commerce platform built with **Next.js** and **Tailwind CSS**. Features server-side rendering (SSR) for high performance and a dynamic order management system.
-
-**🎓 Student Management System**
-> A robust administrative tool developed using **JavaScript** and **REST API** principles to ensure data integrity and secure record management.
+- 🔭 **Currently Building:** Full-stack solutions using **Next.js**, **React**, and **Spring Boot**.
+- 🔐 **Deep Dive:** Network Security, Linux (Ubuntu/WSL), and Cloud Infrastructure.
+- ⚡ **Technical Edge:** Analyzing packet flows in Wireshark and architecting RESTful APIs.
+- 🎯 **Goal:** Bridging the gap between secure backend stability and intuitive frontend design.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Skills
 
-| Category | Technologies |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,typescript,java,spring,mongodb,mysql,linux,bash,cisco,postman,git,github,py,figma" />
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td align="center"><b>Backend & DB</b></td>
+    <td align="center"><b>Networking & DevOps</b></td>
+  </tr>
+  <tr>
+    <td>Next.js, React, Tailwind, TypeScript</td>
+    <td>Spring Boot, Java, Python, MongoDB, MySQL</td>
+    <td>Cisco Packet Tracer, Wireshark, Linux, Git</td>
+  </tr>
+</table>
+
+---
+
+### 🏆 Certification Vault
+
+| Achievement | Organization |
 | :--- | :--- |
-| **Frontend** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="25" title="Next.js"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="25" title="React"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="25" title="Tailwind"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="25" title="TypeScript"/> |
-| **Backend & DB** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="25" title="Java"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25" title="Python"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="25" title="MongoDB"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="25" title="MySQL"/> |
-| **Networking & OS** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="25" title="Linux"/> <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" width="25" title="Cisco"/> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="25" title="Postman"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="25" title="Git"/> |
+| 🛡️ **Introduction to Cybersecurity** | Cisco Networking Academy |
+| 🚀 **API Testing Postman Fundamentals Student Expert** | Postman |
+| 🖥️ **Operating System Basics** | Cisco Networking Academy |
+| 📡 **Exploring Networking with Cisco Packet Tracer** | Cisco Networking Academy |
+| 🛠️ **Introduction to Packet Tracer** | Cisco Networking Academy |
+| 🎓 **Git & GitHub Certification** | ScholarHat |
+| 📚 **Introduction to Git** | Microsoft Learn |
 
 ---
 
-## 🏆 Certifications
+### 📂 Featured Projects
 
-- 📜 **Git & GitHub Certification – ScholarHat** 🔗 [View Certificate](./assets/certificates/git-github-scholarhat.pdf)
-
-- 📜 **Operating System Basics – Cisco Networking Academy** 🔗 [View Certificate](./assets/certificates/cisco-os.pdf)
-
-- 📜 **API Testing Postman API Fundamentals Student Expert – Postman** 🔗 [View Certificate](./assets/certificates/postman-api.pdf)
-
-- 📜 **Exploring Networking with Cisco Packet Tracer – Cisco Networking Academy** 🔗 [View Certificate](./assets/certificates/networking-exploration.pdf)
-
-- 📜 **Introduction to Packet Tracer – Cisco Networking Academy** 🔗 [View Certificate](./assets/certificates/packet-tracer-intro.pdf)
-
-- 📜 **Introduction to Git – Microsoft Learn** 🔗 [View Certificate](./assets/certificates/microsoft-git.pdf)
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🍕 Full-Stack Restaurant App</h4>
+      <p>High-performance e-commerce platform with dynamic menu and order tracking.</p>
+      <code>Next.js</code> <code>Tailwind</code> <code>SSR</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎓 Student Management System</h4>
+      <p>Secure administrative tool using REST APIs for record handling and enrollment.</p>
+      <code>Spring Boot</code> <code>JavaScript</code> <code>MongoDB</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🚆 Train Reservation System</h4>
+      <p>Logic modeling for search flows and ticket booking sequences using UML.</p>
+      <code>System Logic</code> <code>UML</code> <code>Design Patterns</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌍 Tourism Portal</h4>
+      <p>A marketplace connecting travelers with professional guides.</p>
+      <code>React</code> <code>Spring Boot</code> <code>REST API</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🔥 GitHub Activity
+### 📊 GitHub & Contributions
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hiruranasinghe&theme=react-dark&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
-  
-  <br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hiruranasinghe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiruranasinghe&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=hiruranasinghe&show_icons=true&locale=en&theme=dark&rank_icon=github" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hiruranasinghe&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hiruranasinghe&theme=react-dark&area=true&hide_border=true&custom_title=Hiru's%20Activity%20Graph" width="100%" />
+</p>
 
 ---
 
-### 🤝 Connect with me
+### 🤝 Let's Connect
 
-<p align="left">
-  <a href="mailto:hiruranasinghe67@gmail.com"><img src="https://img.shields.io/badge/Email-hiruranasinghe67%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/hiruni-ranasinghe-6b411a377"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<p align="center">
+  <a href="mailto:hiruranasinghe67@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hiruni-ranasinghe-6b411a377"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=hiruranasinghe&label=Profile%20views&color=0077B5&style=flat-square" alt="Profile views" />
 </p>
