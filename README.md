@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hiru%20Ranasinghe&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hiruni%20Ranasinghe&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" alt="Header" />
 
   ### 🚀 Undergraduate | Aspiring Full-Stack & Network Engineer
   **NSBM Green University**
