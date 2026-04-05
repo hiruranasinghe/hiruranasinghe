@@ -7,6 +7,7 @@
   <p align="center">
     <a href="https://www.linkedin.com/in/hiruni-ranasinghe-6b411a377"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <img src="https://img.shields.io/badge/Location-Sri_Lanka-blue?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+    <img src="https://img.shields.io/badge/Focus-Cybersecurity%20%26%20Networking-red?style=for-the-badge" alt="Focus" />
   </p>
 
   <img src="https://github-profile-trophy.vercel.app/?username=hiruranasinghe&theme=tokyonight&no-bg=true&no-frame=true&column=7" alt="Trophies" />
@@ -16,44 +17,54 @@
 
 ### 💫 About Me
 
-I am a results-oriented Computer Networks undergraduate focused on the intersection of **Network Infrastructure** and **Modern Web Development**. I specialize in building high-performance applications while mastering the complexities of **Cybersecurity** and **System Administration**.
+I am a highly motivated Computer Networks undergraduate bridging the gap between **Network Infrastructure** and **Modern Web Architecture**. I specialize in building scalable applications while maintaining a deep technical interest in **Operating Systems** and **Cybersecurity**.
 
-- 🔭 **Currently Building:** Full-stack solutions using **Next.js**, **React**, and **Spring Boot**.
-- 🔐 **Deep Dive:** Network Security, Linux (Ubuntu/WSL), and Cloud Infrastructure.
-- ⚡ **Technical Edge:** Analyzing packet flows in Wireshark and architecting RESTful APIs.
-- 🎯 **Goal:** Bridging the gap between secure backend stability and intuitive frontend design.
+- 🔭 **Current Focus:** Full-stack systems using **Next.js**, **Tailwind**, and **Spring Boot**.
+- 🛠️ **Environment:** Linux (Ubuntu / WSL), Cisco Packet Tracer, Wireshark.
+- ⚡ **Technical Edge:** Analyzing packet flows and architecting performance-driven frontend architecture.
+- 🎯 **Goal:** Combining backend stability with intuitive, secure digital experiences.
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,typescript,java,spring,mongodb,mysql,linux,bash,cisco,postman,git,github,py,figma" />
-</p>
-
 <table align="center">
   <tr>
-    <td align="center"><b>Frontend</b></td>
-    <td align="center"><b>Backend & DB</b></td>
-    <td align="center"><b>Networking & DevOps</b></td>
-  </tr>
-  <tr>
-    <td>Next.js, React, Tailwind, TypeScript</td>
-    <td>Spring Boot, Java, Python, MongoDB, MySQL</td>
-    <td>Cisco Packet Tracer, Wireshark, Linux, Git</td>
+    <td align="center">
+      <b>Frontend & Design</b><br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="50" title="Next.js" /> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" title="React" /> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="50" title="Tailwind CSS" /> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" title="TypeScript" /> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="50" title="Figma" />
+    </td>
+    <td align="center">
+      <b>Backend & Infrastructure</b><br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" title="Java" /> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50" title="Spring Boot" /> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" title="Python" /> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" title="MongoDB" /> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" title="MySQL" />
+    </td>
+    <td align="center">
+      <b>Networking & DevOps</b><br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" title="Linux" /> 
+      <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" width="50" title="Cisco" /> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" title="Git" /> 
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" title="Postman" /> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="50" title="Bash" />
+    </td>
   </tr>
 </table>
-
----
 
 ### 🏆 Certification Vault
 
 | Achievement | Organization |
 | :--- | :--- |
 | 🛡️ **Introduction to Cybersecurity** | Cisco Networking Academy |
-| 🚀 **API Testing Postman Fundamentals Student Expert** | Postman |
+| 🚀 **API Testing Postman Fundamentals** | Postman (Student Expert) |
 | 🖥️ **Operating System Basics** | Cisco Networking Academy |
-| 📡 **Exploring Networking with Cisco Packet Tracer** | Cisco Networking Academy |
+| 📡 **Exploring Networking with Packet Tracer** | Cisco Networking Academy |
 | 🛠️ **Introduction to Packet Tracer** | Cisco Networking Academy |
 | 🎓 **Git & GitHub Certification** | ScholarHat |
 | 📚 **Introduction to Git** | Microsoft Learn |
@@ -91,15 +102,16 @@ I am a results-oriented Computer Networks undergraduate focused on the intersect
 
 ---
 
-### 📊 GitHub & Contributions
+### 📊 GitHub Activity & Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hiruranasinghe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiruranasinghe&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiruranasinghe&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hiruranasinghe&theme=react-dark&area=true&hide_border=true&custom_title=Hiru's%20Activity%20Graph" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiruranasinghe&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hiruranasinghe&theme=tokyonight&area=true&hide_border=true&custom_title=Activity%20Pulse" width="48%" />
 </p>
 
 ---
