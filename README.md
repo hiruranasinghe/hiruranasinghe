@@ -63,6 +63,7 @@ I am a highly motivated Computer Networks undergraduate bridging the gap between
 
 | Achievement | Organization |
 | :--- | :--- |
+| 🎨 **Introduction to Figma** | Simplilearn |
 | 🛡️ **Introduction to Cybersecurity** | Cisco Networking Academy |
 | 🚀 **API Testing Postman Fundamentals** | Postman (Student Expert) |
 | 🖥️ **Operating System Basics** | Cisco Networking Academy |
