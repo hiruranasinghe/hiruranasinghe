@@ -57,6 +57,8 @@ I am a highly motivated Computer Networks undergraduate bridging the gap between
   </tr>
 </table>
 
+---
+
 ### 🏆 Certification Vault
 
 | Achievement | Organization |
@@ -72,6 +74,12 @@ I am a highly motivated Computer Networks undergraduate bridging the gap between
 ---
 
 ### 📂 Featured Projects
+
+<div align="center">
+  <h2>🌐 SubnetSphere</h2>
+  <p>A Cisco Packet Tracer lab simulating a small office network connecting ACCOUNTS and DELIVERY departments. Demonstrates subnetting, routing, switching, and inter-department connectivity testing.</p>
+  <a href="https://github.com/hiruranasinghe/SubnetSphere.git"><img src="https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" /></a>
+</div>
 
 <table border="0">
   <tr>
