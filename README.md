@@ -80,6 +80,8 @@ I am a highly motivated Computer Networks undergraduate bridging the gap between
   <h2>🌐 SubnetSphere</h2>
   <p>A Cisco Packet Tracer lab simulating a small office network connecting ACCOUNTS and DELIVERY departments. Demonstrates subnetting, routing, switching, and inter-department connectivity testing.</p>
   <a href="https://github.com/hiruranasinghe/SubnetSphere.git"><img src="https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" /></a>
+  <br /><br />
+  <a href="https://netwithhiru.blogspot.com/2026/04/my-first-networking-project-connecting.html"><img src="https://img.shields.io/badge/Read%20Full%20Blog-4285F4?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog Link" /></a>
 </div>
 
 <table border="0">
