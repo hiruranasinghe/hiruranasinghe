@@ -104,6 +104,20 @@ I am a highly motivated Computer Networks undergraduate bridging the gap between
   </a>
 </div>
 
+<br/>
+
+<div align="center">
+  <h2>🏨 Vic Modern Hotel Network (VMH-OSPF-VLAN-Architecture)</h2>
+  <p>
+    A comprehensive enterprise network simulation for a multi-floor hotel using VLAN segmentation, inter-VLAN routing, and OSPF. 
+    Features dynamic IP allocation (DHCP), secure SSH access, wireless connectivity, and port security implementation for controlled access.
+  </p>
+
+  <a href="https://github.com/hiruranasinghe/VMH-OSPF-VLAN-Architecture">
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
 <table border="0">
   <tr>
     <td width="50%" valign="top">
