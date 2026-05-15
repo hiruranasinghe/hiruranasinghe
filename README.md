@@ -87,7 +87,16 @@ I am a highly motivated Computer Networks undergraduate bridging the gap between
   <br /><br />
 
   <a href="https://netwithhiru.blogspot.com/2026/04/my-first-networking-project-connecting.html">
-    <img src="https://img.shields.io/badge/Read%20Full%20Blog-4285F4?style=for-the-badge&logo=blogger&logoColor=white" />
+    <img src="https://img.shields.io/badge/Read%20Blog%20%231-4285F4?style=for-the-badge&logo=blogger&logoColor=white" />
+  </a>
+
+  <br /><br />
+
+  <h2>🔥 pfSense Firewall Configuration</h2>
+  <p>A hands-on virtual firewall setup using pfSense on VMware. Covers full installation, GPT partitioning, LAN/WAN interface assignment, IP configuration, and accessing the pfSense web dashboard - documented as a real student learning journey.</p>
+
+  <a href="https://netwithhiru.blogspot.com/2026/05/netwithhiru-blog-series-02.html">
+    <img src="https://img.shields.io/badge/Read%20Blog%20%232-4285F4?style=for-the-badge&logo=blogger&logoColor=white" />
   </a>
 </div>
 
