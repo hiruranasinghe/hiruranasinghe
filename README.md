@@ -102,7 +102,7 @@ I am a highly motivated Computer Networks undergraduate bridging the gap between
   <br /><br />
 
   <h2>🐉 Kali Linux Installation - Ethical Hacking Journey</h2>
-  <p>A real student journey of installing Kali Linux on VirtualBox and VMware — before the lecturer even assigned it. Documents every challenge faced: black screens, disk space errors, GRUB decisions, and the mindset that kept going. Inspired by Wenura Mendis sir and Vibernet.</p>
+  <p>A real student journey of installing Kali Linux on VirtualBox and VMware, before the lecturer even assigned it. Documents every challenge faced: black screens, disk space errors, GRUB decisions, and the mindset that kept going. Inspired by Wenura Mendis sir and Vibernet.</p>
 
   <a href="https://netwithhiru.blogspot.com/2026/05/ethical-hacking-journey.html">
     <img src="https://img.shields.io/badge/Read%20Blog%20%233-4285F4?style=for-the-badge&logo=blogger&logoColor=white" />
