@@ -1,33 +1,25 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hiruni%20Ranasinghe&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" alt="Header" />
-
-  ### 🚀 Undergraduate | Aspiring Full-Stack & Network Engineer
-  **NSBM Green University**
-
+🚀 Undergraduate | Aspiring Full-Stack & Network Engineer
+NSBM Green University
   <p align="center">
     <a href="https://www.linkedin.com/in/hiruni-ranasinghe-6b411a377"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <img src="https://img.shields.io/badge/Location-Sri_Lanka-blue?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
     <img src="https://img.shields.io/badge/Focus-Cybersecurity%20%26%20Networking-red?style=for-the-badge" alt="Focus" />
   </p>
-
   <img src="https://github-profile-trophy.vercel.app/?username=hiruranasinghe&theme=tokyonight&no-bg=true&no-frame=true&column=7" alt="Trophies" />
 </div>
 
----
+💫 About Me
+I am a highly motivated Computer Networks undergraduate bridging the gap between Network Infrastructure and Modern Web Architecture. I specialize in building scalable applications while maintaining a deep technical interest in Operating Systems and Cybersecurity.
 
-### 💫 About Me
+🔭 Current Focus: Full-stack systems using Next.js, Tailwind, and Spring Boot.
+🛠️ Environment: Linux (Ubuntu / WSL), Cisco Packet Tracer, Wireshark.
+⚡ Technical Edge: Analyzing packet flows and architecting performance-driven frontend architecture.
+🎯 Goal: Combining backend stability with intuitive, secure digital experiences.
 
-I am a highly motivated Computer Networks undergraduate bridging the gap between **Network Infrastructure** and **Modern Web Architecture**. I specialize in building scalable applications while maintaining a deep technical interest in **Operating Systems** and **Cybersecurity**.
 
-- 🔭 **Current Focus:** Full-stack systems using **Next.js**, **Tailwind**, and **Spring Boot**.
-- 🛠️ **Environment:** Linux (Ubuntu / WSL), Cisco Packet Tracer, Wireshark.
-- ⚡ **Technical Edge:** Analyzing packet flows and architecting performance-driven frontend architecture.
-- 🎯 **Goal:** Combining backend stability with intuitive, secure digital experiences.
-
----
-
-### 🛠️ Tech Stack & Skills
-
+🛠️ Tech Stack & Skills
 <table align="center">
   <tr>
     <td align="center">
@@ -57,86 +49,60 @@ I am a highly motivated Computer Networks undergraduate bridging the gap between
   </tr>
 </table>
 
----
+🏆 Certification Vault
+AchievementOrganization🎨 Introduction to FigmaSimplilearn🛡️ Introduction to CybersecurityCisco Networking Academy🚀 API Testing Postman FundamentalsPostman (Student Expert)🖥️ Operating System BasicsCisco Networking Academy📡 Exploring Networking with Packet TracerCisco Networking Academy🛠️ Introduction to Packet TracerCisco Networking Academy🎓 Git & GitHub CertificationScholarHat📚 Introduction to GitMicrosoft Learn
 
-### 🏆 Certification Vault
-
-| Achievement | Organization |
-| :--- | :--- |
-| 🎨 **Introduction to Figma** | Simplilearn |
-| 🛡️ **Introduction to Cybersecurity** | Cisco Networking Academy |
-| 🚀 **API Testing Postman Fundamentals** | Postman (Student Expert) |
-| 🖥️ **Operating System Basics** | Cisco Networking Academy |
-| 📡 **Exploring Networking with Packet Tracer** | Cisco Networking Academy |
-| 🛠️ **Introduction to Packet Tracer** | Cisco Networking Academy |
-| 🎓 **Git & GitHub Certification** | ScholarHat |
-| 📚 **Introduction to Git** | Microsoft Learn |
-
----
-
-### 📂 Featured Projects
-
+📂 Featured Projects
 <div align="center">
   <h2>🌐 SubnetSphere</h2>
   <p>A Cisco Packet Tracer lab simulating a small office network connecting ACCOUNTS and DELIVERY departments. Demonstrates subnetting, routing, switching, and inter-department connectivity testing.</p>
-
   <a href="https://github.com/hiruranasinghe/SubnetSphere.git">
     <img src="https://img.shields.io/badge/View%20SubnetSphere-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
-  <br /><br />
-
+<br /><br />
   <a href="https://netwithhiru.blogspot.com/2026/04/my-first-networking-project-connecting.html">
     <img src="https://img.shields.io/badge/Read%20Blog%20%231-4285F4?style=for-the-badge&logo=blogger&logoColor=white" />
   </a>
-
-  <br /><br />
-
+<br /><br />
   <h2>🔥 pfSense Firewall Configuration</h2>
   <p>A hands-on virtual firewall setup using pfSense on VMware. Covers full installation, GPT partitioning, LAN/WAN interface assignment, IP configuration, and accessing the pfSense web dashboard - documented as a real student learning journey.</p>
-
   <a href="https://netwithhiru.blogspot.com/2026/05/netwithhiru-blog-series-02.html">
     <img src="https://img.shields.io/badge/Read%20Blog%20%232-4285F4?style=for-the-badge&logo=blogger&logoColor=white" />
   </a>
-
-  <br /><br />
-
+<br /><br />
   <h2>🐉 Kali Linux Installation - Ethical Hacking Journey</h2>
   <p>A real student journey of installing Kali Linux on VirtualBox and VMware, before the lecturer even assigned it. Documents every challenge faced: black screens, disk space errors, GRUB decisions, and the mindset that kept going. Inspired by Wenura Mendis sir and Vibernet.</p>
-
   <a href="https://netwithhiru.blogspot.com/2026/05/ethical-hacking-journey.html">
     <img src="https://img.shields.io/badge/Read%20Blog%20%233-4285F4?style=for-the-badge&logo=blogger&logoColor=white" />
   </a>
-
+<br /><br />
+  <h2>🔓 Hacking Telnet - Ethical Hacking Journey</h2>
+  <p>A beginner's hands-on journey of setting up a real ethical hacking lab using Kali Linux and Metasploitable 2 on VMware. Covers Nmap scanning, Telnet exploitation, and why Linux commands are essential for cybersecurity. 100% legal, 100% safe home lab practice.</p>
+  <a href="https://netwithhiru.blogspot.com/2026/05/how-i-hacked-my-first-machine-using.html">
+    <img src="https://img.shields.io/badge/Read%20Blog%20%234-4285F4?style=for-the-badge&logo=blogger&logoColor=white" />
+  </a>
 </div>
-
 <br/>
-
 <div align="center">
   <h2>🏢 Bonalbo Branch Network VLAN Design</h2>
   <p>
     A Cisco Packet Tracer project focused on designing a branch office network using VLAN segmentation, subnetting, and structured LAN architecture. Demonstrates secure departmental separation and scalable network design.
   </p>
-
   <a href="https://github.com/hiruranasinghe/bonalbo-branch-network-vlan-design">
     <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
-
 <br/>
-
 <div align="center">
   <h2>🏨 Vic Modern Hotel Network (VMH-OSPF-VLAN-Architecture)</h2>
   <p>
     A comprehensive enterprise network simulation for a multi-floor hotel using VLAN segmentation, inter-VLAN routing, and OSPF. 
     Features dynamic IP allocation (DHCP), secure SSH access, wireless connectivity, and port security implementation for controlled access.
   </p>
-
   <a href="https://github.com/hiruranasinghe/VMH-OSPF-VLAN-Architecture">
     <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
-
 <table border="0">
   <tr>
     <td width="50%" valign="top">
@@ -164,24 +130,17 @@ I am a highly motivated Computer Networks undergraduate bridging the gap between
   </tr>
 </table>
 
----
-
-### 📊 GitHub Activity & Insights
-
+📊 GitHub Activity & Insights
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hiruranasinghe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiruranasinghe&theme=tokyonight&hide_border=true" width="48%" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiruranasinghe&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hiruranasinghe&theme=tokyonight&area=true&hide_border=true&custom_title=Activity%20Pulse" width="48%" />
 </p>
 
----
-
-### 🤝 Let's Connect
-
+🤝 Let's Connect
 <p align="center">
   <a href="mailto:hiruranasinghe67@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/hiruni-ranasinghe-6b411a377"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
