@@ -53,37 +53,25 @@ I am a highly motivated Computer Networks undergraduate bridging the gap between
 AchievementOrganization🎨 Introduction to FigmaSimplilearn🛡️ Introduction to CybersecurityCisco Networking Academy🚀 API Testing Postman FundamentalsPostman (Student Expert)🖥️ Operating System BasicsCisco Networking Academy📡 Exploring Networking with Packet TracerCisco Networking Academy🛠️ Introduction to Packet TracerCisco Networking Academy🎓 Git & GitHub CertificationScholarHat📚 Introduction to GitMicrosoft Learn
 
 📂 Featured Projects
+
+  
+## 📝 Blog Series — netwithhiru
+
+| # | Title | Topic | Link |
+|---|-------|-------|------|
+| 01 | My First Networking Project — Connecting Two Departments | `Networking` | [Read →](https://netwithhiru.blogspot.com/2026/04/my-first-networking-project-connecting.html) |
+| 02 | pfSense Firewall Configuration on VMware | `Security` | [Read →](https://netwithhiru.blogspot.com/2026/05/netwithhiru-blog-series-02.html) |
+| 03 | Kali Linux Installation — Ethical Hacking Journey | `OS / Lab` | [Read →](https://netwithhiru.blogspot.com/2026/05/ethical-hacking-journey.html) |
+| 04 | Hacking Telnet — Nmap, Metasploitable & First Exploit | `Ethical Hacking` | [Read →](https://netwithhiru.blogspot.com/2026/05/how-i-hacked-my-first-machine-using.html) |
+
+> 📖 More posts at [netwithhiru.blogspot.com](https://netwithhiru.blogspot.com)
+> 
 <div align="center">
   <h2>🌐 SubnetSphere</h2>
   <p>A Cisco Packet Tracer lab simulating a small office network connecting ACCOUNTS and DELIVERY departments. Demonstrates subnetting, routing, switching, and inter-department connectivity testing.</p>
   <a href="https://github.com/hiruranasinghe/SubnetSphere.git">
     <img src="https://img.shields.io/badge/View%20SubnetSphere-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-<br /><br />
-  <a href="https://netwithhiru.blogspot.com/2026/04/my-first-networking-project-connecting.html">
-    <img src="https://img.shields.io/badge/Read%20Blog%20%231-4285F4?style=for-the-badge&logo=blogger&logoColor=white" />
-  </a>
-<br /><br />
-  <h2>🔥 pfSense Firewall Configuration</h2>
-  <p>A hands-on virtual firewall setup using pfSense on VMware. Covers full installation, GPT partitioning, LAN/WAN interface assignment, IP configuration, and accessing the pfSense web dashboard - documented as a real student learning journey.</p>
-  <a href="https://netwithhiru.blogspot.com/2026/05/netwithhiru-blog-series-02.html">
-    <img src="https://img.shields.io/badge/Read%20Blog%20%232-4285F4?style=for-the-badge&logo=blogger&logoColor=white" />
-  </a>
-<br /><br />
-  <h2>🐉 Kali Linux Installation - Ethical Hacking Journey</h2>
-  <p>A real student journey of installing Kali Linux on VirtualBox and VMware, before the lecturer even assigned it. Documents every challenge faced: black screens, disk space errors, GRUB decisions, and the mindset that kept going. Inspired by Wenura Mendis sir and Vibernet.</p>
-  <a href="https://netwithhiru.blogspot.com/2026/05/ethical-hacking-journey.html">
-    <img src="https://img.shields.io/badge/Read%20Blog%20%233-4285F4?style=for-the-badge&logo=blogger&logoColor=white" />
-  </a>
-<br /><br />
-  <h2>🔓 Hacking Telnet - Ethical Hacking Journey</h2>
-  <p>A beginner's hands-on journey of setting up a real ethical hacking lab using Kali Linux and Metasploitable 2 on VMware. Covers Nmap scanning, Telnet exploitation, and why Linux commands are essential for cybersecurity. 100% legal, 100% safe home lab practice.</p>
-  <a href="https://netwithhiru.blogspot.com/2026/05/how-i-hacked-my-first-machine-using.html">
-    <img src="https://img.shields.io/badge/Read%20Blog%20%234-4285F4?style=for-the-badge&logo=blogger&logoColor=white" />
-  </a>
-</div>
-<br/>
-<div align="center">
   <h2>🏢 Bonalbo Branch Network VLAN Design</h2>
   <p>
     A Cisco Packet Tracer project focused on designing a branch office network using VLAN segmentation, subnetting, and structured LAN architecture. Demonstrates secure departmental separation and scalable network design.
