@@ -55,15 +55,15 @@ AchievementOrganization🎨 Introduction to FigmaSimplilearn🛡️ Introduction
 📂 Featured Projects
 
   
-## 📝 Blog Series — netwithhiru
+## 📝 Blog Series - netwithhiru
 
 | # | Title | Topic | Link |
 |---|-------|-------|------|
-| 01 | My First Networking Project — Connecting Two Departments | `Networking` | [Read →](https://netwithhiru.blogspot.com/2026/04/my-first-networking-project-connecting.html) |
+| 01 | My First Networking Project - Connecting Two Departments | `Networking` | [Read →](https://netwithhiru.blogspot.com/2026/04/my-first-networking-project-connecting.html) |
 | 02 | pfSense Firewall Configuration on VMware | `Security` | [Read →](https://netwithhiru.blogspot.com/2026/05/netwithhiru-blog-series-02.html) |
-| 03 | Kali Linux Installation — Ethical Hacking Journey | `OS / Lab` | [Read →](https://netwithhiru.blogspot.com/2026/05/ethical-hacking-journey.html) |
-| 04 | Hacking Telnet — Nmap, Metasploitable & First Exploit | `Ethical Hacking` | [Read →](https://netwithhiru.blogspot.com/2026/05/how-i-hacked-my-first-machine-using.html) |
-| 05 | I Tried Vibe Coding for the First Time — And Built a Real Stock App | `AI / Vibe Coding` | [Read →](https://netwithhiru.blogspot.com/2026/05/i-tried-vibe-coding-for-first-time-and.html) |
+| 03 | Kali Linux Installation - Ethical Hacking Journey | `OS / Lab` | [Read →](https://netwithhiru.blogspot.com/2026/05/ethical-hacking-journey.html) |
+| 04 | Hacking Telnet - Nmap, Metasploitable & First Exploit | `Ethical Hacking` | [Read →](https://netwithhiru.blogspot.com/2026/05/how-i-hacked-my-first-machine-using.html) |
+| 05 | I Tried Vibe Coding for the First Time - And Built a Real Stock App | `AI / Vibe Coding` | [Read →](https://netwithhiru.blogspot.com/2026/05/i-tried-vibe-coding-for-first-time-and.html) |
 
 > 📖 More posts at [netwithhiru.blogspot.com](https://netwithhiru.blogspot.com)
 > 
@@ -75,7 +75,7 @@ AchievementOrganization🎨 Introduction to FigmaSimplilearn🛡️ Introduction
   </a>
   <h2>🏢 Bonalbo Branch Network VLAN Design</h2>
   <p>
-    A Cisco Packet Tracer project focused on designing a branch office network using VLAN segmentation, subnetting, and structured LAN architecture. Demonstrates secure departmental separation and scalable network design.
+    A Cisco Packet Tracer project focused on designing a branch office network using VLAN segmentation, subnetting and structured LAN architecture. Demonstrates secure departmental separation and scalable network design.
   </p>
   <a href="https://github.com/hiruranasinghe/bonalbo-branch-network-vlan-design">
     <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
