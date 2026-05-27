@@ -63,6 +63,7 @@ AchievementOrganization🎨 Introduction to FigmaSimplilearn🛡️ Introduction
 | 02 | pfSense Firewall Configuration on VMware | `Security` | [Read →](https://netwithhiru.blogspot.com/2026/05/netwithhiru-blog-series-02.html) |
 | 03 | Kali Linux Installation — Ethical Hacking Journey | `OS / Lab` | [Read →](https://netwithhiru.blogspot.com/2026/05/ethical-hacking-journey.html) |
 | 04 | Hacking Telnet — Nmap, Metasploitable & First Exploit | `Ethical Hacking` | [Read →](https://netwithhiru.blogspot.com/2026/05/how-i-hacked-my-first-machine-using.html) |
+| 05 | I Tried Vibe Coding for the First Time — And Built a Real Stock App | `AI / Vibe Coding` | [Read →](https://netwithhiru.blogspot.com/2026/05/i-tried-vibe-coding-for-first-time-and.html) |
 
 > 📖 More posts at [netwithhiru.blogspot.com](https://netwithhiru.blogspot.com)
 > 
