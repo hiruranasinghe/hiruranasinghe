@@ -130,6 +130,7 @@ I'm a networks undergraduate who loves building things, breaking things, and wri
 | 04 | Hacking Telnet - Nmap, Metasploitable & First Exploit | `Ethical Hacking` | [Read →](https://netwithhiru.blogspot.com/2026/05/how-i-hacked-my-first-machine-using.html) |
 | 05 | I Tried Vibe Coding - And Built a Real Stock App | `AI / Vibe Coding` | [Read →](https://netwithhiru.blogspot.com/2026/05/i-tried-vibe-coding-for-first-time-and.html) |
 | 06 | I Let AI Build My Apps in Replit - And Things Got Interesting | `AI / Replit` | [Read →](https://netwithhiru.blogspot.com/2026/05/i-let-ai-build-my-apps-in-replit-and.html) |
+| 07 | Excel with AI - Stop Memorising Formulas, Start Thinking | `AI / Productivity` | [Read →](https://netwithhiru.blogspot.com/2026/05/excell-with-ai-stop-memorizing-formulas.html) |
 
 ---
 
