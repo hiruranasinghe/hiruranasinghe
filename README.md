@@ -89,7 +89,7 @@ I'm a networks undergraduate who loves building things, breaking things, and wri
 
 | 🏅 Certificate | 🏢 Issuer |
 |---|---|
-| 🖥️ Computer Hardware Basics | [Cisco Networking Academy](https://www.cisco.com/) |
+| 🖥️ Computer Hardware Basics | [Cisco Networking Academy |
 | 🎨 Introduction to Figma | Simplilearn |
 | 🛡️ Introduction to Cybersecurity | Cisco Networking Academy |
 | 🚀 API Testing - Postman Fundamentals | Postman Student Expert |
@@ -101,10 +101,6 @@ I'm a networks undergraduate who loves building things, breaking things, and wri
 
 </div>
 
-**🏅 Computer Hardware Basics Badge:**  
-[View my verified badge on Credly](https://www.credly.com/badges/2e7622ad-ed75-48ca-99e9-7de769b03fe5)
-
----
 
 </div>
 
