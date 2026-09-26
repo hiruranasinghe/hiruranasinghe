@@ -89,7 +89,7 @@ I'm a networks undergraduate who loves building things, breaking things, and wri
 
 | 🏅 Certificate | 🏢 Issuer |
 |---|---|
-| 🖥️ Computer Hardware Basics | [Cisco Networking Academy |
+| 🖥️ Computer Hardware Basics | Cisco Networking Academy |
 | 🎨 Introduction to Figma | Simplilearn |
 | 🛡️ Introduction to Cybersecurity | Cisco Networking Academy |
 | 🚀 API Testing - Postman Fundamentals | Postman Student Expert |
