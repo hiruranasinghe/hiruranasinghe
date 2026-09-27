@@ -81,12 +81,6 @@ I'm a networks undergraduate who loves building things, breaking things, and wri
 
 <div align="center">
 
----
-
-## 🏆 Certifications
-
-<div align="center">
-
 | 🏅 Certificate | 🏢 Issuer |
 |---|---|
 | 🖥️ Computer Hardware Basics | Cisco Networking Academy |
@@ -98,9 +92,6 @@ I'm a networks undergraduate who loves building things, breaking things, and wri
 | 🛠️ Introduction to Packet Tracer | Cisco Networking Academy |
 | 🎓 Git & GitHub Certification | ScholarHat |
 | 📚 Introduction to Git | Microsoft Learn |
-
-</div>
-
 
 </div>
 
@@ -141,6 +132,7 @@ I'm a networks undergraduate who loves building things, breaking things, and wri
 | 05 | I Tried Vibe Coding - And Built a Real Stock App | `AI / Vibe Coding` | [Read →](https://netwithhiru.blogspot.com/2026/05/i-tried-vibe-coding-for-first-time-and.html) |
 | 06 | I Let AI Build My Apps in Replit - And Things Got Interesting | `AI / Replit` | [Read →](https://netwithhiru.blogspot.com/2026/05/i-let-ai-build-my-apps-in-replit-and.html) |
 | 07 | Excel with AI - Stop Memorising Formulas, Start Thinking | `AI / Productivity` | [Read →](https://netwithhiru.blogspot.com/2026/05/excell-with-ai-stop-memorizing-formulas.html) |
+| 08 | When Your Router Turns Out to Be a Server - Home Network Lab | `Networking` | [Read →](https://netwithhiru.blogspot.com/2026/09/when-your-router-turns-out-to-be-server.html) |
 
 ---
 
