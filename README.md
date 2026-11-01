@@ -133,6 +133,7 @@ I'm a networks undergraduate who loves building things, breaking things, and wri
 | 06 | I Let AI Build My Apps in Replit - And Things Got Interesting | `AI / Replit` | [Read →](https://netwithhiru.blogspot.com/2026/05/i-let-ai-build-my-apps-in-replit-and.html) |
 | 07 | Excel with AI - Stop Memorising Formulas, Start Thinking | `AI / Productivity` | [Read →](https://netwithhiru.blogspot.com/2026/05/excell-with-ai-stop-memorizing-formulas.html) |
 | 08 | When Your Router Turns Out to Be a Server - Home Network Lab | `Networking` | [Read →](https://netwithhiru.blogspot.com/2026/09/when-your-router-turns-out-to-be-server.html) |
+| 09 | Seeing the Invisible - My First Deep Dive into Nmap & Wireshark | `Security / Networking` | [Read →](https://netwithhiru.blogspot.com/2026/11/seeing-invisible-my-first-deep-dive.html) |
 
 ---
 
